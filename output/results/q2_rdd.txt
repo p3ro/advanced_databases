@@ -1,0 +1,1 @@
+Percentage of users with average movie rating over 3: 88.9946695410785%
